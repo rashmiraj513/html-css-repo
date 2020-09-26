@@ -1,0 +1,11 @@
+absolute url
+www.google.com
+
+relative url
+../pic/dog.jpg
+
+relative url
+/pic/dog.jpg
+
+relative url
+chapter07/index.html
