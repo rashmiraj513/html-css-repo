@@ -1,0 +1,6 @@
+/* Border effect for img tag */
+img {
+  border: 10px groove orange;
+}
+
+/*We use '/*' and '*/' /*to add comments in CSS whether that comment is one liner or multi-liner.*/
