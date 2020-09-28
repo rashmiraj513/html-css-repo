@@ -1,0 +1,15 @@
+div {
+  width: 400px;
+  height: 200px;
+  border: 10px dashed red;
+  margin: 20px auto;
+  /*
+  TBRL
+  TB RL
+  T B R L
+  */
+}
+
+.nogrow {
+  box-sizing: border-box;
+}
